@@ -1,0 +1,19 @@
+{
+  "name": "where-in-addis",
+  "version": "1.0.0",
+  "description": "A Telegram Bot Service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://facilo@bitbucket.org/facilo/where-in-addis.git"
+  },
+  "author": "Fasil Girma",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/facilo/where-in-addis#readme",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.5"
+  }
+}
